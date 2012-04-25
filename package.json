@@ -1,0 +1,6 @@
+{
+    "name": "shell-npm",
+    "description": "Provides a hook to the Node.Js Package Manager from a client-side CLI.",
+    "version": "0.1",
+    "author": "Grzegorz Lyczba <grzegorz.lyczba@gmail.com"
+}
